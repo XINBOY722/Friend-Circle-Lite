@@ -61,6 +61,6 @@ smtp:
 #   url:                指定的RSS地址
 specific_RSS:
    - name: "清风"
-     url: "https://blog.csdn.net/qingfengmax"
+     url: "https://rss.csdn.net/qingfengmax/rss/map?spm=1001.2014.3001.5494"
   # - name: "無名小栈"
   #   url: "https://blog.imsyy.top/rss.xml"
