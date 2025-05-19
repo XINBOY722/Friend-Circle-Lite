@@ -62,5 +62,5 @@ smtp:
 specific_RSS:
    - name: "清風"
      url: "https://rss.csdn.net/qingfengmax/rss/map?spm=1001.2014.3001.5494"
-  # - name: "無名小栈"
-  #   url: "https://blog.imsyy.top/rss.xml"
+  - name: "LINUX DO"
+    url: "https://linux.do/tag/%E7%B2%BE%E5%8D%8E%E7%A5%9E%E5%B8%96.rss"
