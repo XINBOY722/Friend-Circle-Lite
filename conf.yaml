@@ -63,4 +63,4 @@ specific_RSS:
    - name: "清風"
      url: "https://rss.csdn.net/qingfengmax/rss/map?spm=1001.2014.3001.5494"
    - name: "LINUX DO"
-     url: "https://linux.do/top.rss?period=weekly"
+     url: "https://linux.do/c/gossip/11.rss"
